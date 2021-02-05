@@ -8,7 +8,8 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 public class CardTrick {
     public static void main(String[] args)
     {
-       Card C = new Card();
+       Card c = new Card();
+       Card c2 = new Card();
        String c2;
        int c3;
        c.setSuit("Spades");
