@@ -9,7 +9,7 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card c = new Card();
-       Card c3 = new Card();
+       Card c4 = new Card();
        String c2;
        int c3;
        c.setSuit("Spades");
